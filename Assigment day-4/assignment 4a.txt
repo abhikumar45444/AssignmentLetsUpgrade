@@ -1,0 +1,2 @@
+In the Binary Search algorithm, it is suggested to calculate the mid as
+beg + (end - beg) / 2 because of the overflow condition.
